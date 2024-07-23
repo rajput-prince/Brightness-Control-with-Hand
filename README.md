@@ -5,7 +5,7 @@ calculate the distance between thumb tip and index fingertip and maps the distan
 thumb tip and index fingertip with brightness range.
 
 ## dependencies
-Numpy
-OpenCV
-Mediapipe
+Numpy <br>
+OpenCV <br>
+Mediapipe <br>
 Screen-Brightness-Control
